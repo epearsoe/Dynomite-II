@@ -13,3 +13,6 @@ dimension corrections to fit properly in a standard Colecovision cartridge.
 
 Updates will be posted to this repository as available. These will eventually include tested Gerber files for download and fabrication at your favorite PCB
 manufacturing company and a complete Bill of Materials required to build the cartridge for DIYers.
+
+The ADAM DSK image file /Media/Dynomite Sound Digitizer.dsk is a hacked version of the original TriSyd software with a new title screen and intro sound file
+that was recorded and then digitized with the Dynomite II SDC.
