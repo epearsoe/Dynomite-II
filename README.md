@@ -6,7 +6,7 @@ Digitizer software available at http://adamarchive.org/archive/Adam/Drivers/EOS/
 
 As I don't own an original TriSyd Dynomite cartridge and have never seen the circuit used this is not an exact clone of the original but rather a best guess
 of how it was designed. This design is based off the Open Amiga Sampler found here https://github.com/echolevel/open-amiga-sampler and modified to work as a
-Colecovision cartridge.
+Colecovision cartridge and with the original software.
 
 Prototype testing has been completed and the new Dynomite II works with the original software. I am currently working on the version 1.0 PCB which has some
 dimension corrections to fit properly in a standard Colecovision cartridge.
