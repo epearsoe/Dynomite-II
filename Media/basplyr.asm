@@ -5,6 +5,8 @@ ORG $0100				;Z80 origin but actual address uses OFFSET
 OFFSET:		EQU		27675	;27936-100h-5 program residing in memory at 27936
 SNDPRT:		EQU		0FFh	;SOUND PORT
 OFF:		EQU		0FFh	;SOUND OFF DATA
+HEADER:
+	DB	01h,00h,02h
 BLOAD:
 	DW	START+OFFSET
 START:
