@@ -16,8 +16,9 @@ is in the file Bill of Materials.txt. These are all through hole components and 
 The version 5 design has 2 build options which are described in the Bill of Materials.txt file. The 2 options were to test sound quality. Currently in my
 opinion Option 2 produces the clearest sound. If I find any way to improve Option 1 in the future I will update this README.
 
-I used my worst Colecovision cartridge to mount the required RCA jacks and potentiometer. I am working on a 3D printable cartridge design for this project
-so hopefully in the future no additional original Colecovision cartridges will need to be sacrificed. 
+I used my worst Colecovision cartridge to mount the required RCA jacks and potentiometer. John Lunday was kind enough to provide a 3D printable cartridge
+design for this project so hopefully in the future no additional original Colecovision cartridges will need to be sacrificed. The STL file is located in
+the "Cartridge" folder in this project.
 
 The ADAM DSK image file /Media/Dynomite Sound Digitizer.dsk is a hacked version of the original TriSyd software with a new title screen and intro sound file
 that was recorded and then digitized with the Dynomite II SDC. Other than that the software is the same.
