@@ -10,13 +10,11 @@ Colecovision cartridge and with the original software.
 
 Prototype testing has been completed and the new Dynomite II works with the original software.
 
-I have uploaded the latest design for the Dynomite II. The Gerber files are in Dynomite_II_SDC_v5_2022-11-23.zip. All of the parts required to build the device
-is in the file Bill of Materials.txt. These are all through hole components and are pretty easy to source.
+I will be updating the design of the Dynomite II based on testing and recommendations from John Lundy to improve sound quality.  Thanks John!
 
-The version 5 design has 2 build options which are described in the Bill of Materials.txt file. The 2 options were to test sound quality. Currently in my
-opinion Option 2 produces the clearest sound. If I find any way to improve Option 1 in the future I will update this README.
+I will be temporarily removing the v5 Gerbers until I can upload the revised version.
 
-I used my worst Colecovision cartridge to mount the required RCA jacks and potentiometer. John Lunday was kind enough to provide a 3D printable cartridge
+I used my worst Colecovision cartridge to mount the required RCA jacks and potentiometer. John Lundy was kind enough to provide a 3D printable cartridge
 design for this project so hopefully in the future no additional original Colecovision cartridges will need to be sacrificed. The STL file is located in
 the "Cartridge" folder in this project.
 
