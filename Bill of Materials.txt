@@ -1,44 +1,15 @@
-PARTS
-
-OPTION 1
 IC1	1	ADC0820CCN
-IC2	1	MCP6002-xP
-J1	1	10K Potentiometer
+IC2	1	LM358P
+J1	1	100K Potentiometer https://www.amazon.com/dp/B09SKNQ2YC
 J2	2	female RCA jacks
-R1	1	330 ohm resistor
-R3	2	100K resistor
-R4
-R5	2	10K resistor
-R6
-R7	1	100 ohm resistor
-C1	2	0.1uF ceramic capacitor
-C2
-C4	1	10uF 16v electrolytic capacitor
-C5	1	47uF 16v electrolytic capacitor
-C6	1	0.1uF ceramic capacitor
-C7	2	1.0uf 16v tantalum capacitor
-C8
-
-Jump C3 and R2
-
-OPTION 2
-IC1	1	ADC0820CCN
-IC2	1	MCP6002-xP
-J1	1	10K Potentiometer
-J2	2	female RCA jacks
-R1	1	330 ohm resistor
 R2	1	1K resistor
 R3	2	100K resistor
 R4
-R5	2	1K resistor
+R5	2	2K resistor
 R6
-R7	1	100 ohm resistor
 C1	2	0.1uF ceramic capacitor
 C2
 C3	1	10uF 16v tantalum capacitor
 C4	1	10uF 16v electrolytic capacitor
 C5	1	47uF 16v electrolytic capacitor
-C6	1	0.1uF ceramic capacitor
 
-
-Jump C7 and C8
