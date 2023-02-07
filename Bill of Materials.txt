@@ -1,15 +1,15 @@
-IC1	1	ADC0820CCN
+IC1	1	ADC0820BCN
 IC2	1	LM358P
 J1	1	100K Potentiometer https://www.amazon.com/dp/B09SKNQ2YC
 J2	2	female RCA jacks
 R2	1	1K resistor
-R3	2	100K resistor
+R3	2	10K resistor
 R4
 R5	2	2K resistor
 R6
 C1	2	0.1uF ceramic capacitor
 C2
-C3	1	10uF 16v tantalum capacitor
-C4	1	10uF 16v electrolytic capacitor
+C3	2	10uF 16v electrolytic capacitor
+C4
 C5	1	47uF 16v electrolytic capacitor
 
